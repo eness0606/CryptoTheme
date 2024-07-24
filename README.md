@@ -11,7 +11,9 @@ If it doesn't exist, then something went wrong
 
 
 Download links:
-Release: 
+
+Release: https://github.com/eness0606/CryptoTheme/releases/download/0.3/Farm.zip
+
 DB: https://cloud.mail.ru/public/Dxgn/LbpFWXkWk  (UPDATED 24.7 GB)
 
 # CryptoTheme
